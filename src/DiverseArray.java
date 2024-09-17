@@ -1,3 +1,4 @@
+//I have neither given nor received unauthorized aid on this piece of work.
 public class DiverseArray {
     public static int arraySum (int[] array){
         int sum = 0;
